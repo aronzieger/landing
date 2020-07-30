@@ -1,0 +1,28 @@
+.banner {
+  height: 600px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  object-fit: cover;
+}
+
+.container {
+  align-items: center;
+  text-align: center;
+}
+
+.container p {
+  text-align: center;
+}
+
+.btn {
+ color: grey;
+ border: 1px solid grey;
+ border-radius: 5px;
+ background-color: black;
+ margin: 10px;
+ padding: 5px 10px;
+ opacity: 0.5;
+}

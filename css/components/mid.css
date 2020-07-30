@@ -1,0 +1,29 @@
+.container-mid {
+  height: 300px;
+  background-color: #f9fbfc;
+  color: grey;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-size: cover;
+  object-fit: cover;
+  margin: none;
+}
+
+.container-small {
+  display: flex;
+  justify-content: space-around;
+}
+
+.container-func {
+  width: 250px;
+  border: 1px solid grey;
+  border-radius: 5px;
+  padding 20px;
+  text-align: center;
+}
+
+.icon {
+  width: 60px;
+  height: 60px;
+}

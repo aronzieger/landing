@@ -1,0 +1,27 @@
+.footer {
+    background-color: #ffe8df;
+    padding: 15px;
+    text-align: center;
+    box-shadow: 0 10px 10px grey;
+    opacity: 0.7;
+}
+
+.icon-social li {
+  display: inline-flex;
+  margin-left: none;
+
+}
+
+.icon-social li a {
+  font-size: 40px;
+  opacity: 0.5;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  padding: 0px 20px;
+  list-style: none;
+}
+
+.icon-social li a:hover {
+  color: black;
+}
